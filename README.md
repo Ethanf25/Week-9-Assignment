@@ -1,6 +1,6 @@
 Instructions
 
-1.) Open terminal and type "git clone https://github.com/Ethanf25/Week-8-Class Assignment.git"
+1.) Open terminal and type "git clone https://github.com/Ethanf25/Week-9-Assignment.git"
 
 2.) Open index.html with Liver Server extension
 
